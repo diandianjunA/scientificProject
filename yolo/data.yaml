@@ -1,0 +1,6 @@
+path: D:/PyCharm 2022.2.4/pythonProject/scientificProject/yolo/data   # dataset root dir
+train: images/train  # train images (relative to 'path') 128 images
+val: images/train  # train images (relative to 'path') 128 images
+test:  # test images (optional)
+names:
+  0: canvas
